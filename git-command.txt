@@ -1,4 +1,4 @@
 This is to create configuration for git command
-git configuration user.name "uthaman2024"
-git configuration user.email "uthamanhome@gmail.com"
+git config --global user.name "uthaman2024"
+git config --global user.email "uthamanhome@gmail.com"
 
